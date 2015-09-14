@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Area</string>
+
+    <string name="title_section1">Game</string>
+    <string name="title_section2">Ranking</string>
+    <string name="title_section3">Face</string>
+    <string name="title_section4">Exit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_find">Find</string>
+
+    <string name="how_to_play">How TO Play?</string>
+    <string name="declaration">Declaration</string>
+</resources>
