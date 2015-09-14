@@ -25,7 +25,7 @@ import java.util.HashMap;
 import java.util.regex.Pattern;
 
 public class MainActivity extends Activity {
-    public int test = 1;
+    
     public WelcomeView welcomeview;
     public static int status = 0;
 
